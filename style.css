@@ -1,0 +1,84 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.blue{
+    background-color: blue;
+    width: 70%;
+    height: 80vh;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.image{
+    background-image: url("panier.jpg");
+    width: 80%;
+    height: 60vh;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+
+    color: rgb(133, 9, 83);
+    font-size: 40px;
+    margin-left: 60px;
+    font-family: 'Roboto+Condensed:wght@300', serif ;
+    font-family : 'Dancing Script', cursive ;
+font-family: 'Sedgwick Ave Display', cursive;
+
+
+
+
+}
+p{
+    color: white;
+    font-size: 40px;
+    margin-left: 60px;
+}
+#h4 {
+    color: white;
+    font-size: 40px;
+    margin-left: 60px;
+
+
+}
+h6{
+    color: white;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+.button {
+    background-color: #e51391; /* couleur de fond */
+    color: white; /* couleur du texte */
+
+    border: 2px solid #ee11c5; /* bordure de 30 pixels */
+    border-radius: 8px; /* coins arrondis */
+    font-size: 10px; /* taille de la police */
+    padding: 10px 20px; /* espacement intérieur */
+    margin-left: 60px;
+
+  }
+  .navbar navbar-expand-lg navbar{
+    color: rgb(243, 17, 100);
+    text-align: left;
+  }
+  
+.navbar{
+
+
+    font-size: 15px;
+    margin-left: 300px;
+
+}
+  
+  
+  
+  
+  
+  
+  
